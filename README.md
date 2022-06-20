@@ -52,22 +52,24 @@ Washrooms that maintain a very high user rating will be featured in the top of o
 3. Evidence of rountine maintenance
 
 
+
 ## For the User
+```diff
+Step 1 - Locate Washrooms near you and compare their ratings.
 
-**Step 1** - Locate Washrooms near you and compare their ratings.
+Step 2 - Choose the washroom you want to use and find directions to it, based on your current location or the location of your choice.
 
-**Step 2** - Choose the washroom you want to use and find directions to it, based on your current location or the location of your choice.
-
-**Step 3** - Rate the service before you leave.
-
+Step 3 - Rate the service before you leave.
+```
 
 ## For SAATHI Service Partners
+```diff
+Step 1 - Register yourself with us.
 
-**Step 1** - Register yourself with us.
+Step 2 - Provide your location, contact details and latest images of the washroom facilities (images can also be uploaded in reviews by users).
 
-**Step 2** - Provide your location, contact details and latest images of the washroom facilities (images can also be uploaded in reviews by users).
-
-**Step 3** - Maintain the cleanliness and hygiene of your establishment to keep attracting more customers.
+Step 3 - Maintain the cleanliness and hygiene of your establishment to keep attracting more customers.
+```
 
 ## Web Application Demo Design
 
