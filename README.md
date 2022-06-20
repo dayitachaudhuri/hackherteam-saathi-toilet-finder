@@ -22,9 +22,9 @@
 
 Choice of Theme - Creating solutions for women health, safety and upliftment of vulnerable section
 
-Access to sanitation facilities while travelling is one of the biggest challenges faced by women in developing countries. Without knowing how and where to get clean public washrooms, we often have to compromise our health and hygiene, exposing ourselves to UTIs and what not. 
+Access to safe and hygienic sanitation facilities while travelling is a serious challenge faced by women in developing countries. Without knowing how and where to get clean public washrooms, we often have to compromise our health, hygiene and safety. 
 
-It is even worse when we are on our periods and have no idea if the nearest toilet will have running water and a pad disposer or sanitary dustbin available. 
+To make it worse, during periods we have no idea if the nearest toilet will have running water and a pad disposer/sanitary dustbin available, considering we even get a toilet in the first place. 
 
 ## OUR SOLUTION 
 
