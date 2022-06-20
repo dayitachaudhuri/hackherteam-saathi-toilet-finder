@@ -14,6 +14,10 @@
 
 ![1](https://user-images.githubusercontent.com/77076578/174490732-890ed491-7484-48cd-a858-4bec6351d1f2.jpg)
 
+### Follow the link  below to visit the figma page-
+
+[https://www.figma.com/file/S66TRN4THtDnYSlJTkqUxD/Washroom?node-id=2%3A5864](https://www.figma.com/file/S66TRN4THtDnYSlJTkqUxD/Washroom?node-id=2%3A5864)
+
 ## PROBLEM STATEMENT
 
 Choice of Theme - Creating solutions for women health, safety and upliftment of vulnerable section
