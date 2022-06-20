@@ -39,20 +39,29 @@ Giving people information about the nearest available toilets and their conditio
 
 **Product  - TOILET FINDER WEBSITE "SAATHI"**
 
-We will build a web application where users can access their nearest available washrooms and see the cleanliness and hygiene rating of them along with previous user recommendations. This will help users make an uniformed choice about where to to.
+We will build a web application where users can access their nearest available washrooms and see the cleanliness and hygiene rating of them along with previous user recommendations to help users make an informed choice.
 
-Establishments like restaurants, hotels and shops can register their washrooms in our database by providing information including location and real-time pictures. Washrooms that maintain a very high user rating will be featured in the top of our searches and the corresponding establishments will hence attract more travelling customers, thus incentivisng them for maintaining cleanliness. Establishmenst that fail to maintain a threshhold rating will be dropped off our list.
+Public Establishments like restaurants, hotels and shops can register their washrooms in our database by providing information including location and pictures of the facilities for approval. A washroom will not receive approval unless they meet the bare minimum set of standards.
+
+Washrooms that maintain a very high user rating will be featured in the top of our searches and the corresponding establishments will hence attract more travelling customers, thus incentivisng them for maintaining cleanliness. Establishmenst that fail to maintain a threshhold rating will be dropped off our list.
+
+## Set Standards
+
+1. Gender segregated washrooms, with at least 3 of each working toilets, water faucets and paper towels.
+2. Disposal Bins
+3. Evidence of rountine maintenance
+
 
 ## For the User
 
 **Step 1** - Locate Washrooms near you and compare their ratings.
 
-**Step 2** - Choose the washroom you want to use and tind directions to the location of your choice.
+**Step 2** - Choose the washroom you want to use and find directions to it, based on your current location or the location of your choice.
 
 **Step 3** - Rate the service before you leave.
 
 
-## For SAATHI Partners
+## For SAATHI Service Partners
 
 **Step 1** - Register yourself with us.
 
