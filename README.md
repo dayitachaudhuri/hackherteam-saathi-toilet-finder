@@ -83,7 +83,7 @@ Step 3 - Maintain the cleanliness and hygiene of your establishment to keep attr
 
 
 ## Our Tech Stack - 
-
+```diff
 1. UI/UX DESIGN - Figma
 2. Website Frontend - ReactJS Framework
 3. Website Backend - Django Web Framework
@@ -91,7 +91,7 @@ Step 3 - Maintain the cleanliness and hygiene of your establishment to keep attr
 5. Cloud Hosting - Azure Cloud Services
 6. Version Control - Git
 7. API Usage - Map API to locate and find directions to chosen toilet location
-
+```
 ![9](https://user-images.githubusercontent.com/77076578/174490890-430f3171-f2f7-4dab-b197-d3f8321b11d0.jpg)
 ![10](https://user-images.githubusercontent.com/77076578/174490901-f4d3fa9a-3155-4be6-815e-ba3981a06abc.jpg)
 ![12](https://user-images.githubusercontent.com/77076578/174579888-44900628-4b80-4303-b48a-7149e34cb2d0.jpg)
