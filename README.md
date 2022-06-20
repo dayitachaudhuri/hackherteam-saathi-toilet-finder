@@ -58,7 +58,12 @@ Establishments like restaurants, hotels and shops can register their washrooms i
 
 ## Web Application Demo Design
 
-Screenshots
+![5](https://user-images.githubusercontent.com/77076578/174579752-2e910e64-e04a-4420-a4b8-ad46804fb039.jpg)
+
+![6](https://user-images.githubusercontent.com/77076578/174579735-ca9b8c0a-cdf8-4c88-8767-8b2758aaeb05.jpg)
+
+![7](https://user-images.githubusercontent.com/77076578/174579698-32c3844f-35a5-4b22-945d-d6ce9554bc4e.jpg)
+
 
 ## Our Tech Stack - 
 
@@ -68,9 +73,10 @@ Screenshots
 4. Database Management - SQL
 5. Cloud Hosting - Azure
 6. Version Control - Git
-7. API Usage - 
+7. API Usage -  AWS Map API to locate and find directions to chosen toilet location
 
 ![9](https://user-images.githubusercontent.com/77076578/174490890-430f3171-f2f7-4dab-b197-d3f8321b11d0.jpg)
 ![10](https://user-images.githubusercontent.com/77076578/174490901-f4d3fa9a-3155-4be6-815e-ba3981a06abc.jpg)
+![12](https://user-images.githubusercontent.com/77076578/174579888-44900628-4b80-4303-b48a-7149e34cb2d0.jpg)
 
 
