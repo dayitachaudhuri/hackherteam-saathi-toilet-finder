@@ -79,7 +79,7 @@ Establishments like restaurants, hotels and shops can register their washrooms i
 4. Database Management - SQL
 5. Cloud Hosting - Azure Cloud Services
 6. Version Control - Git
-7. API Usage -  AWS Map API to locate and find directions to chosen toilet location
+7. API Usage - Map API to locate and find directions to chosen toilet location
 
 ![9](https://user-images.githubusercontent.com/77076578/174490890-430f3171-f2f7-4dab-b197-d3f8321b11d0.jpg)
 ![10](https://user-images.githubusercontent.com/77076578/174490901-f4d3fa9a-3155-4be6-815e-ba3981a06abc.jpg)
